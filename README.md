@@ -1,13 +1,13 @@
 # Desenvolvimento-Fullstack-API
 
 Funções do CRUD: 
-(CREATE) Adicionar nomes na lista
-(READ) Armazenar nomes na lista
-(UPDATE) Modificar nomes 
-(DELETE) Deletar nomes
+(CREATE) Adicionar nomes na lista <br />
+(READ) Armazenar nomes na lista <br />
+(UPDATE) Modificar nomes <br />
+(DELETE) Deletar nomes <br />
 
-Tecnologias:
-IndexedDB
-HTML
-CSS
-JS
+Tecnologias: <br />
+IndexedDB <br />
+HTML <br />
+CSS <br />
+JS <br />
